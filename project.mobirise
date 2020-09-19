@@ -766,7 +766,7 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "34",
+            "imageSize": "40",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
             "parallax": false,
@@ -784,7 +784,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/e461a480-f60f-43bd-9141-b9ef676d2033-900x1600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/31351390-106164903583181-9169714520799576064-n-1-1400x1849.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -802,7 +802,7 @@
             }
           },
           "title": "<br>Ptr. Victor Manuel Aldana",
-          "text": "Nacio un 14 de Febrero de 1954 en Gualan, Zacapa, Guatemala; Primer Hijo de Los Esposos Gumercindo Aldana y Marta Elisa Aldana, Desde muy pequeño fue atraído por las cosas de Dios; A los 16 años debutó como Locutor de Radio, teniendo mucho éxito como narrador de fútbol, su conversion a JESUCRISTO se registra a los 16 años ocho meses e inmediatamente inicia la plantación de su primera iglesia; A los 21 años ingresa al Seminario Teológico CEBEC en la Ciudad de Guatemala, mientras estudia, Pastorea La Democracia, Escuintla y en la Ciudad de Guatemala en la Zona 7 Colonia Castillo Lara, Pastoreo también en San Antonio,Suchitepéquez dónde contrae matrimonio con Emma Haydee El 8 de Julio de 1978; de este matrimonio nacen 4 hijos, Víctor Jesse, Sindy Roxana, Heidy Karina y Manuel Alexander; En 1981 es llamado para ministrar en Los Estados Unidos dónde estudió su doctorado en Teología en Concordia Seminario <b><i>Saint Louis Missouri</i></b>; Hasta la fecha Pastor Aldana ha plantado en Estados Unidos 18 iglesias y bautizando 15600 personas, ha casado 3600 parejas, ha arreglado Residencias permanentes a unas 3700 personas y Ha trabajado oficialmente como Locutor de Televisión; Actualmente es Pastor de ARMOED MISION  y PRESIDENTE de EMVISION TV NETWORK",
+          "text": "Nacio un 14 de Febrero de 1954 en Gualan, Zacapa, Guatemala; Primer Hijo de Los Esposos Gumercindo Aldana y Marta Elisa Aldana, Desde muy pequeño fue atraído por las cosas de Dios; A los 16 años debutó como Locutor de Radio, teniendo mucho éxito como narrador de fútbol, su conversion a JESUCRISTO se registra a los 16 años ocho meses e inmediatamente inicia la plantación de su primera iglesia; A los 21 años ingresa al Seminario Teológico CEBEC en la Ciudad de Guatemala, mientras estudia, Pastorea La Democracia, Escuintla y en la Ciudad de Guatemala en la Zona 7 Colonia Castillo Lara, Pastoreo también en San Antonio,Suchitepéquez dónde contrae matrimonio con Emma Haydee El 8 de Julio de 1978; de este matrimonio nacen 4 hijos, Víctor Jesse, Sindy Roxana, Heidy Karina y Manuel Alexander; En 1981 es llamado para ministrar en Los Estados Unidos dónde estudió su doctorado en Teología en Concordia Seminario <b><i>Saint Louis Missouri</i></b>; Hasta la fecha Pastor Aldana ha plantado en Estados Unidos 18 iglesias y bautizando 15600 personas, ha casado 3600 parejas, ha arreglado Residencias permanentes a unas 3700 personas y Ha trabajado oficialmente como Locutor de Televisión. Actualmente es Pastor de ARMOED MISION  y PRESIDENTE de EMVISION TV NETWORK",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Tema"
@@ -811,7 +811,8 @@
           "_anchor": "header2-15",
           "_styles": {
             ".mbr-section-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           }
         },
