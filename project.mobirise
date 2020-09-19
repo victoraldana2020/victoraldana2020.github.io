@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DRVICMANMINISTRIES",
-    "currentPage": "page6.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -39,7 +39,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Conferencias, Campañas Evangelisticas\nSeminarios Intensivos y \nDiagnostico sobre Crecimiento de La Iglesia",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -366,7 +366,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Conferencias, Campañas Evangelisticas\nSeminarios Intensivos y \nDiagnostico sobre Crecimiento de La Iglesia",
         "title": "Vision y Mision",
         "order": 1
       },
@@ -655,7 +655,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Conferencias, Campañas Evangelisticas\nSeminarios Intensivos y \nDiagnostico sobre Crecimiento de La Iglesia",
         "title": "Biografia",
         "order": 2
       },
@@ -766,7 +766,7 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "33",
+            "imageSize": "34",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
             "parallax": false,
@@ -784,7 +784,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/31351390-106164903583181-9169714520799576064-n-1400x1849.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e461a480-f60f-43bd-9141-b9ef676d2033-900x1600.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -911,7 +911,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Conferencias, Campañas Evangelisticas\nSeminarios Intensivos y \nDiagnostico sobre Crecimiento de La Iglesia",
         "title": "Contactenos",
         "order": 3
       },
@@ -1204,7 +1204,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "Conferencias, Campañas Evangelisticas\nSeminarios Intensivos y \nDiagnostico sobre Crecimiento de La Iglesia",
         "title": "Multimedia",
         "order": 4
       },
@@ -1498,7 +1498,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "Conferencias, Campañas Evangelisticas\nSeminarios Intensivos y \nDiagnostico sobre Crecimiento de La Iglesia",
         "title": "Nuestro Ministerio",
         "order": 5
       },
@@ -1728,7 +1728,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Conferencias, Campañas Evangelisticas\nSeminarios Intensivos y \nDiagnostico sobre Crecimiento de La Iglesia",
         "title": "Servicios",
         "order": 6
       },
